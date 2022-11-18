@@ -1,0 +1,4 @@
+SERIE DE COMANDOS A TENER EN CUENTA PARA LA BASE DEL SERVER
+
+npm install
+npm i -s bcryptjs cors express-validator jsonwebtoken mongoose
